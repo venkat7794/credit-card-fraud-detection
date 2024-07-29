@@ -74,8 +74,4 @@ import joblib
 model = joblib.load('fraud_detection_model.pkl')
 ```
 
-## Contributing
-Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
 
-
-Feel free to customize this README file further to match your project's specifics!
